@@ -1,0 +1,24 @@
+
+MARK ANTHONY M. OARDE, MARY ROSE UY and NORIEL o. PARAISO,
+LOGIC BATTLE," (Unpublished Undergraduate Thesis, Bicol University
+College of Science, Legazpi City, March 2013)
+
+Logic Battle focused on the design and development of a modified tic-tac-
+toe game. The modified game which incorporates the idea of logic gates is a
+miliarity to individuals with computer-related courses. Specifically the objectives
+are identified and formulated to serve as a guide in the development of the
+proposed project: to formulate a modified game mechanics of Tic-Tac-Toe
+together with the concept of logic gates, to develop an interactive graphical
+interface for the modified Tic-Tac-Toe with animation and sounds, to establish a
+turn-based and synchronous two player game in two approaches, Stand-alone
+game and via (LAN) Local Area Network and lastly to include a replay of moves
+The researchers used Chris Crawford's Game Development sequence as
+guidance in building the system. The researchers used UNITY 4.0 (Free Full
+Version for Windows with Unity Pro and Android trials), as its primary tool in
+developing the game and used Unity script as its programming language. Aside
+the game editor itself, MonoDevelop, a script editor included with Unity, was
+utilized.
+The objectives, from which the researchers based this thesis, were all
+accomplished and met. Moreover, the developed system was tested and has
+received positive feedbacks. It is recommended to enhance the game to other
+platforms such as iOS, XBox, PS3, Wii, Web Player, Flash, etc.

@@ -1,0 +1,26 @@
+
+MARY GRACE A. CABALLES, MARY JOY L. MADARA, “LAN-BASED
+Bicol
+TUMBANG PRESO," (Unpublished Undergraduate
+University College of Science, Legazpi City, March 2012)
+Thesis,
+
+
+The develop LAN Based TumbangPreso can be played through a
+computer network and supports wireless LAN connectivity. It integrates
+animations and sounds as well as graphics to enhance playability and also
+promote traditional Filipino games.
+The study covers all the real rules of a traditional tumbangpreso game. It
+is usually played by three or more players. For player versus computer, an
+Artificial Intelligence will be available to challenge any human player.
+The researchers used the developmental and descriptive type of research,
+Chris Crawford Game Development was utilized as their software development
+process.
+The sources of data were gathered through various sources including
+books, journals, reports, undergraduate thesis, published and unpublished
+materials from several libraries and the Internet. As for the programming
+language the researchers used ActionScript for developing the game.
+The developed system was tested and received positive feedbacks such
+as its reliability, playability and user friendly interface. The system will
+significantly aid in pursuing other researchers in game development. It is
+recommended that it should be implemented to promote traditional game.

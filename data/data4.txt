@@ -1,0 +1,23 @@
+Rañosa, Robert O. and Reymond R. Reoyan, "LP Solver (Linear Programming
+Solver)", (Unpublished Undergraduate Thesis, Bicol University College of
+Science, Computer Science and Information Technology Department, Legazpi
+City, March 2010).
+
+
+The LP Solver (Linear Programming Solver) was developed to help users, who
+have basic knowledge in Linear Programming in solving for the optimal solution for a
+given LP Model. This software provides two applications; the automatic mode that will
+automatically compute for the optimal solution and the tutorial mode which is an
+interactive way of computing for the solution of LP model.
+The study focused on the three methods in solving for the optimal solution; the
+Simplex Method, M-Method and the Two Phase Method. The researchers have
+developed their own algorithms in implementing the three methods based on how these
+methods are implemented manually. The software accepts a LP Model with n variables
+and m constraints; where n is greater than one but not greater than ten, and m is greater
+than zero but not greater than ten. Accepted coefficients of a LP Model for this software
+are in rational form or decimal form with two decimal places. Generated solutions are
+rational numbers specifically in fraction form for accuracy. Moreover, the application
+includes sample LP models and covers cases such as Degeneracy, Alternative Optima,
+Unbounded and Infeasible Solution. The software does not produce a graphical display of
+the solution. Overall, the software gives an alternative way in solving and understanding
+the process of solving LP models.

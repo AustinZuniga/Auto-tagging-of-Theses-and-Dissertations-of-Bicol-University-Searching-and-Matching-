@@ -1,0 +1,51 @@
+ABSTRACT
+GENARO A. SACLAO ill, JULIE ANN L. SICAD, "DOCUMENT TRACKING
+AND ARCHIVING SYTEM FOR DEPARTMENT OF PUBLIC WORKS
+AND HIGHWAYS REGION V," (Unpublished Undergraduate Thesis, Bicol
+University College of Science, Legazpi City, April 2013)
+
+
+
+The study aims to develop a DOCUMENT TRACKING AND ARCHIVING
+SYSTEM FOR DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS REGION
+V that will provide efficiency of stable archiving, fast retrieving and monitoring of
+different types of documents.
+The study used the descriptive and developmental methods of research
+intentionally to get a proper, profound and inclusive comprehend of the system. t
+shows an active involvement of the proponents in the system being studied for
+the purpose of defining system that would satisfy client's needs and achieving
+company's goal and objective
+The researchers chose the System Development Life Cycle (SDLC)
+waterfall model, which is an outline of processes that aided in developing
+successful systems. It served as a guide throughout the development study. In
+developing the system, the researcher found Hypertext Processor (PHP) easy to
+use for the program that was design for creating dynamic website and MYSQL
+for the database system. The system grants features that would be beneficial to
+DPWH ROV. Includes the User Employee Information Profile, Document
+Tracking System, and Cataloging and Archival System. Al the authorized
+employees involved in the office's records management are provided with
+individual accounts into which transactions involving records management and
+operations are kept, recorded and tracked. Document information are available
+on demand to those who are allowed to access the document, but the
+Administrator still has the highest privilege in managing the system, also the user
+of the system such as Regional Director who have the privilege of approving the
+documents/communications. Printable documents and reports are also readily
+available for the users.
+The system was able to track communications circulating within DPWH
+ROV. Thus, this displays necessary information about the document such as its
+date and time received, source, status, type, receiver and its destination.
+Significantly, this enables the employees to send, receive, reply and forward
+communication electronically.
+Documents were classified by document type and a document number is
+automatically generated and assigned by the system to every communication.
+This is significant for cataloging and archival process of documents. The system
+also enables the employee to browse documents sorted in category depending to
+its type and classification. The system generates reports that allows the user to
+filter the all the documents. Filtering of documents can be by document type,
+date, sender, receiver, destination and subject matter. It enables employee to
+save in Excel and PDF. It could also be printed directly from the browser and
+copied to clipboard.With that, the system makes the retrieval process a lot easier. Notification
+functions to users for receive documents and for the admin of the system
+receive notification for documents and registration of the employee. The system
+was able to determine the status, and display the list of record users of a certain
+document.
