@@ -47,7 +47,7 @@ for i in corpus:
 
 
 #create a similarity measure object in tf-idf space.
-sims = gensim.similarities.Similarity('/var/www/html/',tf_idf[corpus],
+sims = gensim.similarities.Similarity('/var/www/html/Auto-tagging-of-Theses-and-Dissertations-of-Bicol-University-Searching-and-Matching-/result/result',tf_idf[corpus],
                                       num_features=len(dictionary))
 
 
