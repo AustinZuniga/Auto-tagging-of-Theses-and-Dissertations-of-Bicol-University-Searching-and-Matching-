@@ -4,7 +4,7 @@ from rake_nltk import Rake
 from nltk.corpus import stopwords 
 r = Rake() 
 
-f=open("data/data4.txt", "r")
+f=open("data/data2.txt", "r")
 if f.mode == 'r':
 	contents =f.read()
 
@@ -14,4 +14,4 @@ b=r.get_ranked_phrases()
 c=r.get_ranked_phrases_with_scores()
 print(b)
 print("\n\n\n\n")
-print(c[0][1])
+print(c)
